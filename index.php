@@ -1,5 +1,7 @@
 <?
-    phpinfo();
+   echo  'qwe';
+
+
     
 ?>
 <hr>
