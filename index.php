@@ -1,3 +1,6 @@
 <?
-phpinfo();
+    phpinfo();
+    
 ?>
+<hr>
+qwe
